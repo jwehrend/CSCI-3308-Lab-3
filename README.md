@@ -3,3 +3,5 @@
 Jonathan Wehrend
 Git Version Control
 New line
+
+This might cause a merge conflict

@@ -2,4 +2,5 @@
 
 Jonathan Wehrend
 Git Version Control
-New line
+
+Partner: Nicolette Goulart
